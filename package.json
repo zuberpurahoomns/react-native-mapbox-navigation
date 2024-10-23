@@ -21,6 +21,7 @@
     "cpp",
     "support",
     "*.podspec",
+    "Package.swift",
     "!docs",
     "!ios/build",
     "!android/build",
